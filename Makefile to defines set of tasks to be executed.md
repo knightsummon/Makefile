@@ -2,7 +2,7 @@
 
 Create a Makefile to add commands to the sets of files
 
-![Snipaste_2023-05-13_20-10-44](Makefile to defines set of tasks to be executed.assets/Snipaste_2023-05-13_20-10-44.jpg)
+![Snipaste_2023-05-13_20-10-44](./Makefile to defines set of tasks to be executed.assets/Snipaste_2023-05-13_20-10-44.jpg)
 
 ![Snipaste_2023-05-13_20-42-11](Makefile to defines set of tasks to be executed.assets/Snipaste_2023-05-13_20-42-11-1684006983214-2.jpg)
 
